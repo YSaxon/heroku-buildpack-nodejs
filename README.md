@@ -1,3 +1,9 @@
+This was forked off of the heroku node buildpack and modified loosely following http://lenovotips.net/news/Creating-custom-Heroku-buildpack-for-Webpack-and-Ruby-on-Rails-integration/
+
+
+
+
+
 # Heroku Buildpack for Node.js
 
 ![nodejs](https://cloud.githubusercontent.com/assets/51578/13712672/efdf2a40-e792-11e5-82ef-492478cbc0dc.png)
